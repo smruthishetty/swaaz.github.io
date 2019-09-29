@@ -3,12 +3,16 @@
   "username": "swaaz",
   "name": "Swasthik shetty",
   "userimg": "https://avatars3.githubusercontent.com/u/42874695?v=4",
-  "sort": "pushed",
+  "sort": "created",
   "order": "asc",
   "includeFork": false,
-  "theme": "dark.css",
+  "theme": "light.css",
   "types": [
    "all"
-  ]
+  ],
+  "twitter": "Swaaz07",
+  "linkedin": "swaaz",
+  "medium": true,
+  "dribbble": true
  }
 ]
